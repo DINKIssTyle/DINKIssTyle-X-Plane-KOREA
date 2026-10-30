@@ -1,0 +1,13 @@
+I
+800
+OBJ
+
+TEXTURE	Incheon_Bridge.png
+TEXTURE_LIT	Incheon_Bridge_LIT.png
+TEXTURE_NORMAL	Incheon_Bridge_NML.png
+POINT_COUNTS	0	0	0	0
+
+	LIGHT_NAMED	obs_red_night 291.35489 234.6618 -908.00006
+	LIGHT_NAMED	obs_red_night 918.31451 234.6618 -508.14539
+
+# Build with Blender 4.4.3 (build b'802179c51ccc'). Exported with XPlane2Blender 4.3.3-rc.1+120.20240721221521

@@ -1,0 +1,2 @@
+63BD: Airport name includes leading or trailing spaces. (warning only)
+63BD: Metadata key 'GUI Label' does not exist, but is needed by the XP 11.35+ GUI (warning only)
